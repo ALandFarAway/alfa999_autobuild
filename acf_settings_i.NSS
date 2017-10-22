@@ -30,15 +30,15 @@
 ////////////////////////////////////////////////////////////////////////////////
 
 // This is the server number which uniquely indentifies this ALFA server.
-const int ACR_SERVER_ID = 0;
+const int ACR_SERVER_ID = 999;
 
 // This is the name of the server.
-const string ACR_SERVER_NAME = "ALFA 0 Build Module";
+const string ACR_SERVER_NAME = "ALFA 999 Autobuild";
 
 const int ACR_SERVER_REGION = 0;
 
 // This is the ip address of the server.
-const string ACR_SERVER_IP = "";
+const string ACR_SERVER_IP = "test.alandfaraway.info";
 
 // This is the directory path to the NWN2 install (use the my documents path for now)
 // (depricated)
