@@ -1010,12 +1010,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="504E72DB08021FB13B3E7FC36BF8F5BEDC629DF7" downloadHash="569E9DAAA32E659E19176D3A2FE3B07346B6DC3B" name="999_fugue_plane.trx" dlsize="615815" size="6227714" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F1C2E302BD84A5C0114D26964B71E305501BF680" downloadHash="6FD718329A37393726C7F8B02DD648F6DE9145B2" name="999_fugue_plane.trx" dlsize="614397" size="6227699" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="196D195ECB4AF5828161C96EB9B1D90CDF29A60A" downloadHash="ED696D076AC34329EAD0AF55C83C26FD4EAB3340" name="999_start.trx" dlsize="12517" size="12601" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F41D675EDA7566C878F14656F792F0794B763EFF" downloadHash="7BE50A2D13B82FA2C2EFC3F2DBDA30D42E5AEBA5" name="999_start.trx" dlsize="12523" size="12601" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
