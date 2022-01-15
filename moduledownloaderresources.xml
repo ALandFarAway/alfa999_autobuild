@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <resource type="DirectoryEntry" hash="4FA3F8356113744D88796AD1DAA2A256476A793C" downloadHash="0BF21828CE7D1F37F6309CEC1F4F9BE97A9B284C" name="compilersettings.GFF" dlsize="119" size="204" critical="false" exclude="false" urlOverride="">
     <server-ref>
